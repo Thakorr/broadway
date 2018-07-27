@@ -5,10 +5,22 @@ h1 {
   color: white;
 }
 
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: Bold;
+}
+
 .header {
   background-image: url("../images/building.png");
 }
 
 body {
   text-align: center;
+}
+
+.link {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: White;
 }
