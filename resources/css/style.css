@@ -11,6 +11,17 @@ h2 {
   font-weight: Bold;
 }
 
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: Bold;
+}
+
+h4 {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
 .header {
   background-image: url("../images/building.png");
 }
@@ -24,3 +35,22 @@ body {
   font-size: 18px;
   color: White;
 }
+
+.midder {
+  background-image: url("../images/building.png");
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.foottext {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  text-align: left;
+  }
+
+  .footer {
+    background-color: dimgray;
+  }
